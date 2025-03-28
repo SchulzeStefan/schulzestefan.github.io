@@ -1,0 +1,7 @@
+module2-solution/.DS_Store
+.DS_Store
+
+
+
+  git config --global user.email "schulze_stefan@me.com"
+  git config --global user.name "Stefan Schulze"
